@@ -1,6 +1,5 @@
 #include <iostream>
 #include <algorithm>
-#include <cmath>
 #include <vector>
 
 void print(std::vector<int> &tmpVec){
